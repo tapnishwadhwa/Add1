@@ -13,7 +13,9 @@ class MainViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
 
-        // Do any additional setup after loading the view.
+        var images = (icon(x).png)
+        print x 
+        
     }
 
     override func didReceiveMemoryWarning() {
